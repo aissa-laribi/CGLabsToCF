@@ -263,3 +263,4 @@ Resources:
     Properties:
       Roles:
         - !Ref Ec2InstanceRole
+
